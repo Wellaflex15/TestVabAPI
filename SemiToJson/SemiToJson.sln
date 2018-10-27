@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemiToJson", "SemiToJson\SemiToJson.csproj", "{D59ECE4B-8B64-49D5-A999-4F922C88150B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D59ECE4B-8B64-49D5-A999-4F922C88150B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59ECE4B-8B64-49D5-A999-4F922C88150B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59ECE4B-8B64-49D5-A999-4F922C88150B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59ECE4B-8B64-49D5-A999-4F922C88150B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01C93E64-E168-4E0A-AC81-C747F466DD09}
+	EndGlobalSection
+EndGlobal
